@@ -1,4 +1,4 @@
-package Project6;
+package dataStructure;
 import java.util.Scanner;
 import java.util.Random;
 /**
